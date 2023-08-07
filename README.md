@@ -1,7 +1,3 @@
-# Hello, World! 👋
-
-This Akram !
-
 ## About Me
 
 - 🌱 Currently exploring [Software engineering]
@@ -13,9 +9,6 @@ This Akram !
 - 📫 How to reach me: akrambenghanem76 at gmail.com
 - 💬 Ask me about [Software Engineering]
 - 🌐 Visit my [Personal Website](https://www.akrem.me/)
-
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=BarriBarri20&show_icons=true&theme=radical)
+- 📝 [Resume](https://drive.google.com/file/d/1VhW7OWo1gH74U3fYxks7LKZTvEB_XjaD/view?usp%253Dshare_link)
 
 Feel free to explore my repositories and connect with me! 😄
