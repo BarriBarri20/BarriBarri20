@@ -11,4 +11,7 @@
 - 🌐 Visit my [Personal Website](https://www.akrem.me/)
 - 📝 [Resume](https://drive.google.com/file/d/1VhW7OWo1gH74U3fYxks7LKZTvEB_XjaD/view?usp%253Dshare_link)
 
+twitter: <https://twitter.com/AkramBenGhanem1>
+linkedin: <https://www.linkedin.com/in/akram-ben-ghanem/>
+
 Feel free to explore my repositories and connect with me! 😄
