@@ -1,8 +1,8 @@
 ## About Me
 
-- 🌱 Currently exploring [Software engineering]
-- 📚 Learning [Software Engineering]
-- 🎮 Fun fact: [Learning Software engineering]
+- 🌱 Currently exploring Software engineering
+- 📚 Learning Software Engineering
+- 🎮 Fun fact: Learning Software engineering
 
 ## Get in Touch
 
