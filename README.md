@@ -5,4 +5,6 @@
     <a href="https://gitlab.com/BarriBarri20">gitlab</a>
   </samp>
 </p>
-✨ Enjoy connecting with fellow developers for both professional and personal growth.
+<p align="center">
+  ✨ Enjoy connecting with fellow developers for both professional and personal growth.
+</p>
